@@ -1,0 +1,21 @@
+(Room Number):101,Cabana,1,too cold,Active,1
+(Room Number):102,Cabana,1,too cold,Active,2
+(Room Number):103,Suite,1,too hot,Active,3
+(Room Number):104,Suite,1,too cold,Active,4
+(Room Number):105,Villa,1,big bathroom,Active,5
+(Room Number):106,Villa,1,small bathroom,Active,6
+(Room Number):107,Villa,1,large dining room,Active,7
+(Room Number):108,Cabana,1,single bed,Active,8
+(Room Number):109,Suite,1,large queen bed,Active,9
+(Room Number):110,Villa,1,large fridge,Active,10
+(Room Number):201,Villa,2,large bedroom,Active,11
+(Room Number):202,Suite,2,no fridge,Active,12
+(Room Number):203,Villa,2,without curtain,Active,13
+(Room Number):204,Villa,2,small dining room,Active,14
+(Room Number):205,Villa,2,comes with lamp,Active,15
+(Room Number):206,Cabana,2,towel missing,Active,16
+(Room Number):207,Suite,2,bed too small,Active,17
+(Room Number):208,Villa,2,bathtube hasn't been clean,Active,18
+(Room Number):209,Villa,2,fridge missing,Active,19
+(Room Number):210,Villa,2,small bathroom,Active,20
+(Room Number):211,Suite,2,too hot,Active,21

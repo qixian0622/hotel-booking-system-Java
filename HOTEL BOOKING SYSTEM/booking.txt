@@ -1,0 +1,6 @@
+(Booking Id):1,eng qi xian,010622100735,0162776618,eng2577@gmail.com,Room No: 101 ; Type: Cabana ; Floor Lvl: 1 ; Id: 1,(Duration):1,(Check In Day):Monday,(Check Out Day):Tuesday,Ongoing
+(Booking Id):2,kovacic,980000000000,0162771827,kovacic@gmail.com,Room No: 102 ; Type: Cabana ; Floor Lvl: 1 ; Id: 2,(Duration):1,(Check In Day):Monday,(Check Out Day):Tuesday,Ongoing
+(Booking Id):3,kylian mbappe,982910291921,0162779918,mbappe@gmail.com,Room No: 103 ; Type: Suite  ; Floor Lvl: 1 ; Id: 3,(Duration):1,(Check In Day):Monday,(Check Out Day):Tuesday,CheckedOut
+(Booking Id):4,Low Soon Yan,898726182712,0172810291,sy@gmail.com,Room No: 103 ; Type: Suite  ; Floor Lvl: 1 ; Id: 3,(Duration):1,(Check In Day):Monday,(Check Out Day):Tuesday,Ongoing
+(Booking Id):5,christian pulisic,820182018201,0162817271,pulisic@gmail.com,Room No: 102 ; Type: Cabana ; Floor Lvl: 1 ; Id: 2,(Duration):1,(Check In Day):Wednesday,(Check Out Day):Thursday,Ongoing
+(Booking Id):6,Edinson Cavani,019281929181,0128301812,cavani@gmail.com,Room No: 105 ; Type: Villa ; Floor Lvl: 1 ; Id: 5,(Duration):4,(Check In Day):Monday,(Check Out Day):Friday,CheckedOut

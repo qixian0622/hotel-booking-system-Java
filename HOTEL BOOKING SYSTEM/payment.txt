@@ -1,0 +1,6 @@
+(Payment Id):1,eng qi xian,eng2577@gmail.com,(Room Charges):350.0,(Service Tax):35.0,(Tourism Tax):10.0,(Total Charges):395.0,(Total Payment):400.0,(Total Change):5.0,1
+(Payment Id):2,kovacic,kovacic@gmail.com,(Room Charges):350.0,(Service Tax):35.0,(Tourism Tax):10.0,(Total Charges):395.0,(Total Payment):400.0,(Total Change):5.0,2
+(Payment Id):3,kylian mbappe,mbappe@gmail.com,(Room Charges):350.0,(Service Tax):35.0,(Tourism Tax):10.0,(Total Charges):395.0,(Total Payment):400.0,(Total Change):5.0,3
+(Payment Id):4,Low Soon Yan,sy@gmail.com,(Room Charges):350.0,(Service Tax):35.0,(Tourism Tax):10.0,(Total Charges):395.0,(Total Payment):400.0,(Total Change):5.0,4
+(Payment Id):5,christian pulisic,pulisic@gmail.com,(Room Charges):350.0,(Service Tax):35.0,(Tourism Tax):10.0,(Total Charges):395.0,(Total Payment):400.0,(Total Change):5.0,5
+(Payment Id):6,Edinson Cavani,cavani@gmail.com,(Room Charges):1400.0,(Service Tax):140.0,(Tourism Tax):40.0,(Total Charges):1580.0,(Total Payment):1600.0,(Total Change):20.0,6
